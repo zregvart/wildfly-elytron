@@ -69,7 +69,7 @@
         <version.org.jboss.spec.jboss-json-api_1.0_spec>1.0.0.Final</version.org.jboss.spec.jboss-json-api_1.0_spec>
         <version.org.jboss.threads>2.2.1.Final</version.org.jboss.threads>
         <version.org.kohsuke.metainf-services.metainf-services>1.7</version.org.kohsuke.metainf-services.metainf-services>
-        <version.junit.junit>4.12</version.junit.junit>
+        <version.junit.junit>4.13.1</version.junit.junit>
         <version.jmockit>1.33</version.jmockit>
         <version.hsqldb>2.4.0</version.hsqldb>
         <version.org.glassfish.javax.json>1.0.4</version.org.glassfish.javax.json>
